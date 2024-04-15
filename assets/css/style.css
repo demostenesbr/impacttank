@@ -1,0 +1,20 @@
+.icon {
+    display: block;
+    width: 320px;
+    height: 140px;
+    background-size: cover;
+    cursor: pointer;
+    padding: 0.5em 0.5em 0.5em;
+    margin: 0 auto;    
+  }
+
+.impacttank {
+    transition: transform 750ms;
+    will-change: transform;
+    background-image: url('../images/impacttank-white.svg');
+}
+
+.impacttank:hover, .impacttank:focus {
+    transform: translateY(10px);
+    background-image: url('../images/impacttank-orange.svg');
+}

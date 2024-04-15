@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 184.01 184.01"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="impacttank-icon.svg"
+   width="184.00999"
+   height="184.00999"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.684051"
+     inkscape:cx="137.85133"
+     inkscape:cy="91.838792"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:#db802d;}.cls-1,.cls-2{fill-rule:evenodd;}.cls-2{fill:#1b2d48;}</style>
+  </defs>
+  <title
+     id="title1">cor_fundoclaro</title>
+  <g
+     id="g3"
+     transform="translate(-234.76104,0.01668648)">
+    <path
+       class="cls-1"
+       d="M 326.89,183.83 A 91.83,91.83 0 1 0 235.05,92 a 92,92 0 0 0 91.84,91.85 z"
+       id="path1" />
+    <path
+       class="cls-2"
+       d="m 326.74,0 c 34.13976,-0.0019802 65.47343,18.901085 81.39205,49.102419 C 424.05067,79.303753 421.93638,115.83668 402.64,144 l -8.13,-27.21 13.84,-42.19 h -10.16 l -13.84,42.69 V 118 l 10.27,36.09 c -34.41546,37.6791 -92.93555,40.1122 -130.36,5.42 h 0.42 l 3.93,-74.61 h 10.63 l 0.46,-10.27 h -32.39 l -0.46,10.27 h 10.63 l -3.32,63.59 C 241.5593,132.35865 234.72886,112.46942 234.76,92 c 0,-2.31 0.11,-4.63 0.25,-6.91 l 1.35,-10.28 C 244.63341,31.417211 282.56554,0.01974999 326.74,0 Z m -34.51,159.5 h -11.1 l 3.67,-70.33 c 0.46,-9.7 5.17,-14.55 14.05,-14.55 h 8.28 c 8.91333,0 13.13333,4.85 12.66,14.55 l -3.67,70.33 H 305 l 1.54,-31.1 h -12.75 z m 14.88,-41.37 1.53,-28.25 c 0.18,-3.32 -1.35,-5 -4.6,-5 H 301 c -3.24,0 -4.92,1.67 -5.1,5 l -1.53,28.25 z m 44.12,-2.5 2.1,-41 h 11.13 l -4.39,84.88 H 349 l 0.82,-16.9 -9.95,-38.67 -2.82,55.57 h -11.13 l 4.39,-84.88 h 11.13 z m 30.39,43.87 H 370.51 L 374.9,74.62 H 386 Z"
+       id="path2"
+       sodipodi:nodetypes="cscccccccccccccccccccccccccssccccccccsscccccccccccccccccc" />
+    <path
+       class="cls-2"
+       d="M 397.33,42.84 C 416.4145,42.822172 425.94704,19.740959 412.4413,6.2604167 398.93556,-7.2201256 375.87219,2.3555037 375.89,21.44 c 0.0276,11.823075 9.61689,21.39452 21.44,21.4 z"
+       id="path3"
+       sodipodi:nodetypes="cscc" />
+  </g>
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>cor_fundoclaro</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
